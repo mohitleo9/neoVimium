@@ -5,6 +5,6 @@ This plugin *(with a very creative name)* aims to be a new vim like navigation p
 
 
 ##Features:
-- [] Link Hints
-- [] Detailed description in README
+- [ ] Link Hints
+- [ ] Detailed description in README
 
